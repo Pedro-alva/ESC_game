@@ -1,0 +1,28 @@
+Walk through player movement
+Explain floor layout (quest for floor bosses, treasure chests)
+Explain combat system
+Explain basic mechanics
+Explain Side Mission System for High Card and Low Card
+Basic Hallway
+
+
+
+Tutorial Scripting
+Opening Scene:
+
+*Slime is hopping around the cave* 
+    *Sees Adventurer’s Satchel, exclamation mark* 
+    – Zoom in on Satchel – 
+    – Zoom in on Slime looking into Satchel –  
+**Satchel is glowing and overflowing with loot**
+    *Slime is playing with things in the Satchel, holding potion bottle with the fairy*
+    *Slime sees the Adventurer’s Album falling out of the Satchel* 
+    *Slime drops bottle, and picks up album, bottle breaks*
+    – Zoom in on Slime holding Adventurer’s Album–
+*Slime opens Adventurer’s Album and sees a photo of Adventure Team with small text on page. Pages are torn out of the album* *Fairy flies off in the background*
+–Zoom in on Text showing: “Adventure Awaits!” 
+*Show Slime think bubble with him as Adventurer outside happy* *Fairy notices him with exclamation mark* 
+*Fairy calls out to Slime* 
+    Fairy: “ Hey you! “ 
+    *Slime is surprised, shows exclamation!* 
+
